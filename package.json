@@ -1,0 +1,25 @@
+{
+  "name": "webpack-md-coverbox",
+  "version": "0.0.1",
+  "description": "Webpack Angular Material Coverbox",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigi/webpack-md-coverbox.git"
+  },
+  "keywords": [
+    "webpack",
+    "angular",
+    "material",
+    "coverbox"
+  ],
+  "author": "Atanas Palavrov <palavrov@codigi.net> (http://codigi.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codigi/webpack-md-coverbox/issues"
+  },
+  "homepage": "https://github.com/codigi/webpack-md-coverbox#readme",
+  "dependencies": {
+    "webpack-mddialog-bootstrap": "0.0.1"
+  }
+}
