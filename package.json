@@ -1,6 +1,6 @@
 {
   "name": "webpack-md-coverbox",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Webpack Angular Material Coverbox",
   "main": "index.js",
   "repository": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/codigi/webpack-md-coverbox#readme",
   "dependencies": {
-    "webpack-mddialog-bootstrap": "0.0.3"
+    "webpack-mddialog-bootstrap": "0.1.0"
   }
 }
